@@ -1,0 +1,93 @@
+{
+  "timestamp": "2026-01-15T13:40:56.772972",
+  "date": "2026-01-15 13:40:56",
+  "exchange_rate_usd_to_egp": 47.2956,
+  "platforms": [
+    {
+      "platform": "Upwork",
+      "url": "https://www.upwork.com/nx/search/jobs/?q=php+developer",
+      "hourly_rates": {
+        "usd": [],
+        "count": 0,
+        "average_usd": 0
+      },
+      "fixed_prices": {
+        "usd": [],
+        "count": 0,
+        "average_usd": 0
+      }
+    },
+    {
+      "platform": "Freelancer",
+      "url": "https://www.freelancer.com/jobs/?keyword=php+developer",
+      "hourly_rates": {
+        "usd": [
+          6.0,
+          7.0,
+          11.0,
+          12.0,
+          14.0,
+          16.0,
+          17.0,
+          18.0,
+          20.0,
+          23.0,
+          24.0,
+          25.0,
+          29.0,
+          30.0,
+          39.0
+        ],
+        "count": 15,
+        "average_usd": 19.4
+      },
+      "fixed_prices": {
+        "usd": [
+          105.0,
+          110.0,
+          117.0,
+          126.0,
+          127.0,
+          135.0,
+          142.0,
+          200.0,
+          211.0,
+          236.0,
+          242.0,
+          250.0,
+          252.0,
+          351.0,
+          376.0
+        ],
+        "count": 15,
+        "average_usd": 198.66666666666666
+      }
+    },
+    {
+      "platform": "Fiverr",
+      "url": "https://www.fiverr.com/search/gigs?query=php+developer&filter=new",
+      "hourly_rates": {
+        "usd": [],
+        "count": 0,
+        "average_usd": 0
+      },
+      "fixed_prices": {
+        "usd": [],
+        "count": 0,
+        "average_usd": 0
+      }
+    }
+  ],
+  "overall_summary": {
+    "hourly_rates": {
+      "total_count": 15,
+      "average_usd": 19.4,
+      "median_usd": 18.0
+    },
+    "fixed_prices": {
+      "total_count": 15,
+      "average_usd": 198.66666666666666,
+      "median_usd": 200.0
+    }
+  }
+}

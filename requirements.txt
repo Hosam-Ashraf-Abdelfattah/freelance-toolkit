@@ -1,0 +1,17 @@
+# --- Contract generator ---
+pandas>=2.0
+openpyxl>=3.1
+weasyprint>=60.0
+qrcode[pil]>=7.4
+
+# --- Telegram bot (text + voice) ---
+python-telegram-bot>=21.0
+python-dotenv>=1.0
+SpeechRecognition>=3.10
+pydub>=0.25
+gTTS>=2.5
+
+# --- Pricing scraper ---
+selenium>=4.15
+undetected-chromedriver>=3.5
+setuptools  # needed by undetected-chromedriver on Python 3.12+
